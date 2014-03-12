@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MidiEditorPlayerCs.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GridLines" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightBlue</Value>
+    </Setting>
+    <Setting Name="BackGround" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SteelBlue</Value>
+    </Setting>
+    <Setting Name="QtrNoteSeparator" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="BarSeparator" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="NoteFill" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightBlue</Value>
+    </Setting>
+    <Setting Name="NoteOutline" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Purple</Value>
+    </Setting>
+    <Setting Name="SixteenNoteMeasureCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="QuarterNoteInMeasure" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="Snapper" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
